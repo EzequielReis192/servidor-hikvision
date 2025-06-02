@@ -1,0 +1,16 @@
+# ========= DEPENDÊNCIAS =========
+node_modules/
+
+# ======= ARQUIVOS TEMPORÁRIOS =======
+temp_faces/
+*.jpg
+*.png
+
+# ======= CONFIGURAÇÕES =======
+.env
+
+# ======= SISTEMA/IDE =======
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
